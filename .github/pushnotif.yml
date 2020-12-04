@@ -1,0 +1,6 @@
+
+name: Send Push Notification
+  uses: techulus/push-github-action@1.0.0
+  API_KEY: 99290e4d-ad00-4759-9495-c08619b63318
+  
+  MESSAGE: Claire Paisley sent a notification.
